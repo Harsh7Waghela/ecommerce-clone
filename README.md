@@ -12,8 +12,5 @@ A static clone of the Amazon homepage built using **HTML and CSS** to practice r
 - Responsive layout (basic)
 - Pixel-inspired UI design
 
-## Note
-This project is **UI-only** and does not include JavaScript functionality or backend integration.
-
 ## Author
 Harsh Waghela
