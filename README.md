@@ -14,3 +14,7 @@ A static clone of the Amazon homepage built using **HTML and CSS** to practice r
 
 ## Author
 Harsh Waghela
+
+## 📸 Project Screenshot
+
+![Amazon Homepage Clone](./screenshot.png)
